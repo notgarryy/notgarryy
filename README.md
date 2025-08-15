@@ -2,6 +2,6 @@ uni projects type shit
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notgarryy&layout=compact&theme=tokyonight&hide=c)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notgarryy&theme=tokyonight&hide=c)
 
 ---
