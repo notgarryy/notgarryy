@@ -1,4 +1,4 @@
-uni projects type shit
+projects
 
 ---
 
